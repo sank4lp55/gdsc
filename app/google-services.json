@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916613719838",
+    "project_id": "mydsc-8390f",
+    "storage_bucket": "mydsc-8390f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916613719838:android:d1cc0372f66cfb656fcb0f",
+        "android_client_info": {
+          "package_name": "com.example.dsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916613719838-4l58juhph1td0d3b5esv974o253dtc29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzrbb84O1UNkLGt4UHwWfj7qSSIXTM4KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916613719838-4l58juhph1td0d3b5esv974o253dtc29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

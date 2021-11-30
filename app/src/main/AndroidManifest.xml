@@ -14,6 +14,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Dsc">
         <activity
+            android:name=".attendence"
+            android:exported="true" />
+        <activity
             android:name=".addPost"
             android:exported="true" />
         <activity
@@ -23,13 +26,13 @@
             android:name=".profiledashboard"
             android:exported="true" />
         <activity
-            android:name=".Loginpage"
+            android:name=".MainActivity"
             android:exported="true" />
         <activity
             android:name=".Dashboard"
             android:exported="true" />
         <activity
-            android:name=".MainActivity"
+            android:name=".Loginpage"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

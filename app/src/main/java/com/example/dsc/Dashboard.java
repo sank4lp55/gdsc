@@ -42,6 +42,12 @@ public class Dashboard extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void goattendence(View view)
+    {
+        Intent intent=new Intent(Dashboard.this, com.example.dsc.attendence.class);
+        startActivity(intent);
+    }
+
 
 
 
